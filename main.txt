@@ -1,0 +1,4 @@
+- create a clone and rename the folder use
+  - git clone 'address to github respository' 'rename of folder'
+  - git clone https://github.com/bobbyj3oe123/my-website.git 4-GitHub-Respository-Overview
+
