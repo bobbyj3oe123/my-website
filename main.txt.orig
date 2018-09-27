@@ -12,12 +12,9 @@
 - if you want to push a new brancha and setup tracking relation use
 - tracking means when i do a git push or get pull this is the specific branch that i am pushing or pulling to now
   - git push -u origin "branch name"
+<<<<<<< HEAD
   - git push -u origin  remove-ipsum
 
-- you can locally switch to a branch made from the github website be doing
-  - git fetch
-  - git checkout 'branch name'
-  - git checkout update-readme
 - if you want to merge a branch to the master branch you can use
   -  git merge "branch name"
   - git merge lorem-ipsum
@@ -30,3 +27,13 @@
 
 - if you want to update all local branches at the same time use
   - git pull -all
+||||||| merged common ancestors
+  - git push -u origin  remove-ipsum
+=======
+  - git push -u origin  remove-ipsum
+
+- you can locally switch to a branch made from the github website be doing
+  - git fetch
+  - git checkout 'branch name'
+  - git checkout update-readme
+>>>>>>> update-readme
