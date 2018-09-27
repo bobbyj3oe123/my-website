@@ -13,3 +13,8 @@
 - tracking means when i do a git push or get pull this is the specific branch that i am pushing or pulling to now
   - git push -u origin "branch name"
   - git push -u origin  remove-ipsum
+
+- you can locally switch to a branch made from the github website be doing
+  - git fetch
+  - git checkout 'branch name'
+  - git checkout update-readme
