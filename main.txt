@@ -23,3 +23,6 @@
 
 - look for any dead branches referencing to branches that were deleted in the github respository on the browser use
   - git fetch -p
+
+- if you want to update all local branches at the same time use
+  - git pull -all
