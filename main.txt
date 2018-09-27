@@ -6,3 +6,5 @@
 
 - if you want to update your file without cause a destructive method and causing compatability issues use
   - git fetch
+
+- git pull or fetch before pushing always a good practice especially if your working a huge project
