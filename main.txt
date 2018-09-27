@@ -8,3 +8,8 @@
   - git fetch
 
 - git pull or fetch before pushing always a good practice especially if your working a huge project
+
+- if you want to push a new brancha and setup tracking relation use
+- tracking means when i do a git push or get pull this is the specific branch that i am pushing or pulling to now
+  - git push -u origin "branch name"
+  - git push -u origin  remove-ipsum
