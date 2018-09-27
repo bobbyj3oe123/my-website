@@ -2,3 +2,7 @@
   - git clone 'address to github respository' 'rename of folder'
   - git clone https://github.com/bobbyj3oe123/my-website.git 4-GitHub-Respository-Overview
 
+- git pull is two commands in one a fetch and is also a merge
+
+- if you want to update your file without cause a destructive method and causing compatability issues use
+  - git fetch
